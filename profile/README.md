@@ -1,6 +1,8 @@
-Open Engineering Texts
+# Open Engineering Texts
 
 Structured engineering knowledge for humans and machines.
+
+![Open Engineering Texts hero-banner.png](../assets/hero-banner.png)
 
 Open Engineering Texts is the knowledge layer of the Open Engineering ecosystem.
 
